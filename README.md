@@ -12,3 +12,6 @@ I am a student at upgrad school of technology,currently learning Git and GitHub
 - lms:ggggjlhhkg
 - lms:ujtgiuihhgu
 
+## contact
+- email: tanishkavg08@gmail.com
+
