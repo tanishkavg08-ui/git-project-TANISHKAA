@@ -12,3 +12,7 @@ I am a student at upgrad school of technology,currently learning Git and GitHub
 - lms:ggggjlhhkg
 - lms:ujtgiuihhgu
 
+## social links
+- k : kjggjgujgjg
+- f : ggtjgtjgujj
+
